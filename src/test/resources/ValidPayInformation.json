@@ -1,0 +1,11 @@
+{
+  "payeeName": "John Doe",
+  "address": "123 Tahrir Street",
+  "city": "Cairo",
+  "state": "Giza",
+  "zipCode": "12345",
+  "phone": "01012345678",
+  "account": "12567",
+  "verifyAccount": "12567",
+  "amount": "500"
+}
