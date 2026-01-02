@@ -1,0 +1,12 @@
+{
+  "firstName": "Sara",
+  "lastName": "Ahmed",
+  "address": "10 Tahrir Street",
+  "city": "Cairo",
+  "state": "Giza",
+  "zipCode": "12345",
+  "phone": "01012345678",
+  "ssn": "123-45-6789",
+  "username": "s_test",
+  "password": "Test@123"
+}
