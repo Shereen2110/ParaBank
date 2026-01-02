@@ -37,4 +37,4 @@ mvn test -Dgroups="validScenario" -Dbrowser="chroume" clean test
  allure generate --clean
  allure open allure-report
 ## 👩‍💻 Author
-**Sherin Ibrahim**
+**Shereen Ibrahim**
