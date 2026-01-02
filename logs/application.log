@@ -3135,3 +3135,1412 @@
 2026-01-02 21:33:52 INFO  AccountsOverviewPage:15 - Opening account details page for account: 16563
 2026-01-02 21:33:58 INFO  AccountsOverviewPage:15 - Clicked account: 16563
 2026-01-02 21:33:59 INFO  AccountsOverviewPage:15 - Current account balance: 915.5
+2026-01-02 22:33:45 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:33:45 INFO  LoginPage:15 - Entering username: 
+2026-01-02 22:33:45 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:45 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:45 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:45 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:33:45 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:33:45 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:33:46 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:46 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:46 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:46 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:33:46 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:33:46 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:33:46 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:46 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:47 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:47 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:33:47 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:33:47 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:33:47 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:47 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:47 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:48 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:33:48 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:48 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:48 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:48 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:33:48 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:33:48 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 22:33:48 INFO  LoginPage:15 - Entering password
+2026-01-02 22:33:49 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:33:49 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:33:49 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:33:49 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:33:52 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:33:52 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:33:53 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:33:54 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:33:54 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:33:55 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:33:55 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:33:56 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:33:57 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:33:57 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:33:58 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:33:58 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:33:59 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:34:00 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:34:00 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:34:01 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:34:02 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:34:02 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:34:02 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:34:02 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:34:06 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:34:06 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:34:06 INFO  LoginPage:15 - Entering password
+2026-01-02 22:34:06 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:34:10 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:34:10 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:34:10 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:34:10 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:34:10 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:34:10 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:35:12 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:35:12 INFO  LoginPage:15 - Entering username: 
+2026-01-02 22:35:12 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:12 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:13 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:13 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:35:13 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:35:13 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:35:13 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:13 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:13 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:14 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:35:14 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:35:14 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:35:14 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:14 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:15 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:15 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:35:15 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:35:15 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:35:15 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:15 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:15 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:16 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:35:16 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:35:16 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:35:16 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:16 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:17 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:17 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:35:17 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:35:17 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 22:35:17 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:17 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:18 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:18 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:35:18 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:35:21 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:21 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:22 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:23 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:23 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:24 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:24 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:24 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:24 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:25 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:25 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:26 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:26 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:27 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:28 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:28 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:29 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:29 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:30 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:31 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:31 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:31 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:31 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:31 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:31 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Zip Code: 12a45
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:32 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:33 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:35:33 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered Phone Number: phone123
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:35:34 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:35:34 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:35:38 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:35:38 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:35:38 INFO  LoginPage:15 - Entering password
+2026-01-02 22:35:39 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:35:39 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:35:39 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:35:39 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:35:39 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:35:39 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:35:39 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:41:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:41:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:42:30 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:30 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:42:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:42:46 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:42:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:08 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:46:08 INFO  LoginPage:15 - Entering username: 
+2026-01-02 22:46:08 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:08 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:08 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:09 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:46:09 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:46:09 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:46:09 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:09 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:09 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:10 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:46:10 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:10 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:10 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:10 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:10 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:46:10 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:11 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:11 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:11 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 22:46:11 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:11 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:11 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:15 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:15 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:16 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:16 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:17 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:46:17 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:18 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 22:46:18 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:19 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:19 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:20 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:46:20 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:46:21 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:46:22 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:46:25 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:46:25 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:46:25 INFO  LoginPage:15 - Entering password
+2026-01-02 22:46:25 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:46:25 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:46:25 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:46:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:46:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:46:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:46:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:47:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:47:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:47:10 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:47:10 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:11 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:11 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:12 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:13 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:13 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:14 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:47:14 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:15 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:16 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:47:16 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:47:17 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:47:17 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:47:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:47:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:47:47 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:47:47 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:47:47 INFO  LoginPage:15 - Entering password
+2026-01-02 22:47:47 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:47:47 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:47:47 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:47:48 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:47:48 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:47:48 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:47:48 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:17 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:48:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:48:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:48:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:48:24 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from JSON
+2026-01-02 22:48:24 INFO  RegisterTest:15 - Starting valid registration test
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:48:24 INFO  RegisterTest:15 - Opened Register Page
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Filling registration form for user: s_test
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:48:24 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered Username: s_test
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:48:25 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:48:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:48:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:48:43 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:48:43 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:48:43 INFO  LoginPage:15 - Entering password
+2026-01-02 22:48:43 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:48:43 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:48:43 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:48:44 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:48:44 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 22:48:45 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 22:48:45 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 22:48:45 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:48:45 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:45 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 22:48:45 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:48:45 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:48:45 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:46 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:48:46 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:48:47 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:48:47 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:48:47 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:47 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:48:48 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:48:48 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:48:48 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:49 INFO  TransferFundsPage:15 - Starting funds transfer: $0 from account 18117 to account 18228
+2026-01-02 22:48:49 INFO  TransferFundsPage:15 - Entered transfer amount: 0
+2026-01-02 22:48:49 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:48:49 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:48:49 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:48:49 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:49 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:48:50 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:48:50 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:48:50 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:48:50 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:51 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:48:51 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:48:52 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:48:52 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:52 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 22:48:52 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:48:52 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:48:52 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:53 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:48:53 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:48:54 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:48:54 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:48:54 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:54 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:48:55 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:48:55 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:48:55 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:56 INFO  TransferFundsPage:15 - Starting funds transfer: $-100 from account 18117 to account 18228
+2026-01-02 22:48:56 INFO  TransferFundsPage:15 - Entered transfer amount: -100
+2026-01-02 22:48:56 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:48:56 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:48:57 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:48:57 INFO  TransferFundsPage:15 - Selected 'From Account': 18228
+2026-01-02 22:48:57 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:48:57 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:48:57 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:58 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:48:58 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:48:59 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 22:48:59 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:48:59 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:48:59 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:49:00 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:49:00 INFO  AccountsOverviewPage:15 - Current account balance: 0.0
+2026-01-02 22:49:00 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:49:01 INFO  TransferFundsPage:15 - Starting funds transfer: $ from account 18228 to account 18117
+2026-01-02 22:49:01 INFO  TransferFundsPage:15 - Entered transfer amount: 
+2026-01-02 22:49:01 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:49:01 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:49:11 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:49:13 INFO  TransferFundsPage:15 - Selected 'From Account': 18228
+2026-01-02 22:49:13 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:49:13 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:49:13 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:49:13 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:49:14 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:49:14 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 22:49:14 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:49:14 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:49:14 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:49:15 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:49:16 INFO  AccountsOverviewPage:15 - Current account balance: 0.0
+2026-01-02 22:49:16 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:49:16 INFO  TransferFundsPage:15 - Starting funds transfer: $abc from account 18228 to account 18117
+2026-01-02 22:49:16 INFO  TransferFundsPage:15 - Entered transfer amount: abc
+2026-01-02 22:49:16 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:49:16 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:54:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml"
+2026-01-02 22:54:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-01-02 22:54:12 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:54:12 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:54:12 INFO  LoginPage:15 - Entering password
+2026-01-02 22:54:12 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:54:12 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:54:12 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:54:13 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:54:13 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 22:54:14 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 22:54:14 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 22:54:14 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:54:14 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:14 INFO  TransferFundsPage:15 - Selected 'From Account': 18339
+2026-01-02 22:54:14 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:54:14 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:54:14 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:15 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:54:16 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:54:16 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:54:16 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18339
+2026-01-02 22:54:16 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:17 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18339
+2026-01-02 22:54:17 INFO  AccountsOverviewPage:15 - Clicked account: 18339
+2026-01-02 22:54:18 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:54:18 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:18 INFO  TransferFundsPage:15 - Starting funds transfer: $0 from account 18339 to account 18117
+2026-01-02 22:54:18 INFO  TransferFundsPage:15 - Entered transfer amount: 0
+2026-01-02 22:54:19 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:54:19 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:54:19 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18339
+2026-01-02 22:54:19 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:19 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18339
+2026-01-02 22:54:20 INFO  AccountsOverviewPage:15 - Clicked account: 18339
+2026-01-02 22:54:20 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:54:20 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:54:20 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:20 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:54:21 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:54:22 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:54:22 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:22 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 22:54:22 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:22 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:54:22 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:23 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:54:23 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:54:24 INFO  AccountsOverviewPage:15 - Current account balance: 0.0
+2026-01-02 22:54:24 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:54:24 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:24 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:54:25 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:54:25 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:54:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:26 INFO  TransferFundsPage:15 - Starting funds transfer: $-100 from account 18117 to account 18228
+2026-01-02 22:54:26 INFO  TransferFundsPage:15 - Entered transfer amount: -100
+2026-01-02 22:54:26 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:26 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:54:26 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:27 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 22:54:27 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:27 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:54:27 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:28 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:54:28 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:54:29 INFO  AccountsOverviewPage:15 - Current account balance: -100.0
+2026-01-02 22:54:29 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:54:29 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:29 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:54:30 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:54:31 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 22:54:31 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:31 INFO  TransferFundsPage:15 - Starting funds transfer: $ from account 18117 to account 18228
+2026-01-02 22:54:31 INFO  TransferFundsPage:15 - Entered transfer amount: 
+2026-01-02 22:54:31 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:31 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:54:42 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:42 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 22:54:42 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:42 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:54:42 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:43 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:54:44 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:54:44 INFO  AccountsOverviewPage:15 - Current account balance: -100.0
+2026-01-02 22:54:44 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:54:44 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:54:45 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:54:46 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:54:46 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 22:54:46 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:54:46 INFO  TransferFundsPage:15 - Starting funds transfer: $abc from account 18117 to account 18228
+2026-01-02 22:54:47 INFO  TransferFundsPage:15 - Entered transfer amount: abc
+2026-01-02 22:54:47 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 22:54:47 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:56:49 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:56:49 INFO  LoginPage:15 - Entering username: 
+2026-01-02 22:56:49 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:49 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:49 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:50 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:56:50 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:56:50 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:56:50 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:50 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:50 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:51 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:56:51 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:56:51 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:56:51 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:51 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:51 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:52 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:56:52 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:56:52 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:56:52 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:52 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:52 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:52 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:56:52 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:56:52 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:56:53 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:53 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:53 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:53 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:56:53 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:56:53 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 22:56:53 INFO  LoginPage:15 - Entering password
+2026-01-02 22:56:53 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:56:54 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:56:54 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:56:54 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:56:57 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 22:56:57 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:56:57 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:56:57 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 22:56:57 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:56:58 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:56:59 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:56:59 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:57:00 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:57:00 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:57:01 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:57:01 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:57:02 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:57:02 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:57:03 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:57:04 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:57:04 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:57:05 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:57:05 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 22:57:08 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:57:08 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:57:08 INFO  LoginPage:15 - Entering password
+2026-01-02 22:57:08 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:57:08 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:57:08 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:57:09 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:57:09 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 22:57:10 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 22:57:10 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 22:57:10 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:57:10 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:11 INFO  TransferFundsPage:15 - Selected 'From Account': 18450
+2026-01-02 22:57:11 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:11 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:57:11 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:11 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:57:12 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:57:12 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:57:12 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18450
+2026-01-02 22:57:12 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:13 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18450
+2026-01-02 22:57:14 INFO  AccountsOverviewPage:15 - Clicked account: 18450
+2026-01-02 22:57:14 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:57:14 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:15 INFO  TransferFundsPage:15 - Starting funds transfer: $0 from account 18450 to account 18117
+2026-01-02 22:57:15 INFO  TransferFundsPage:15 - Entered transfer amount: 0
+2026-01-02 22:57:15 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:15 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:57:15 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18450
+2026-01-02 22:57:15 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:16 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18450
+2026-01-02 22:57:16 INFO  AccountsOverviewPage:15 - Clicked account: 18450
+2026-01-02 22:57:17 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:57:17 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:57:17 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:17 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:57:18 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:57:18 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:57:18 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:19 INFO  TransferFundsPage:15 - Selected 'From Account': 18339
+2026-01-02 22:57:19 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:19 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:57:19 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:19 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:57:20 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:57:21 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 22:57:21 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18339
+2026-01-02 22:57:21 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:21 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18339
+2026-01-02 22:57:22 INFO  AccountsOverviewPage:15 - Clicked account: 18339
+2026-01-02 22:57:23 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:57:23 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:24 INFO  TransferFundsPage:15 - Starting funds transfer: $-100 from account 18339 to account 18117
+2026-01-02 22:57:24 INFO  TransferFundsPage:15 - Entered transfer amount: -100
+2026-01-02 22:57:24 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:24 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:57:25 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:25 INFO  TransferFundsPage:15 - Selected 'From Account': 18228
+2026-01-02 22:57:25 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:25 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:57:25 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:26 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:57:27 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:57:28 INFO  AccountsOverviewPage:15 - Current account balance: 315.5
+2026-01-02 22:57:28 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 22:57:28 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:28 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:57:29 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:57:29 INFO  AccountsOverviewPage:15 - Current account balance: -100.0
+2026-01-02 22:57:29 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:30 INFO  TransferFundsPage:15 - Starting funds transfer: $ from account 18228 to account 18117
+2026-01-02 22:57:30 INFO  TransferFundsPage:15 - Entered transfer amount: 
+2026-01-02 22:57:30 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:30 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:57:40 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:42 INFO  TransferFundsPage:15 - Selected 'From Account': 18339
+2026-01-02 22:57:42 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:42 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:57:42 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:42 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:57:44 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:57:45 INFO  AccountsOverviewPage:15 - Current account balance: 315.5
+2026-01-02 22:57:45 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18339
+2026-01-02 22:57:45 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:57:45 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18339
+2026-01-02 22:57:46 INFO  AccountsOverviewPage:15 - Clicked account: 18339
+2026-01-02 22:57:47 INFO  AccountsOverviewPage:15 - Current account balance: 200.0
+2026-01-02 22:57:47 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:57:47 INFO  TransferFundsPage:15 - Starting funds transfer: $abc from account 18339 to account 18117
+2026-01-02 22:57:47 INFO  TransferFundsPage:15 - Entered transfer amount: abc
+2026-01-02 22:57:47 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:57:47 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:58:42 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from JSON
+2026-01-02 22:58:42 INFO  RegisterTest:15 - Starting valid registration test
+2026-01-02 22:58:42 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 22:58:43 INFO  RegisterTest:15 - Opened Register Page
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Filling registration form for user: s_test
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Username: s_test
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 22:58:43 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 22:58:47 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:58:47 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:58:47 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:47 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:47 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:47 INFO  LoginPage:15 - Waiting for LoginPage to load
+2026-01-02 22:58:49 INFO  Scenario1_LoginVerificationTest:15 - Login successful, user is on Accounts Overview page
+2026-01-02 22:58:49 INFO  AccountsOverviewPage:15 - Logging out from application
+2026-01-02 22:58:50 INFO  Scenario1_LoginVerificationTest:15 - User logged out successfully
+2026-01-02 22:58:50 INFO  LoginPage:15 - Entering username: 
+2026-01-02 22:58:50 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:50 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:50 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:51 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:58:51 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 22:58:51 INFO  Scenario1_LoginVerificationTest:15 - Invalid login error message verified successfully
+2026-01-02 22:58:51 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:58:51 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:51 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:51 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:51 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:58:51 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:51 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:51 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:52 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 22:58:52 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:58:52 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 22:58:52 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:52 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:52 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:53 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:58:53 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:58:53 INFO  Scenario1_LoginVerificationTest:15 - Invalid login error message verified successfully
+2026-01-02 22:58:53 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 22:58:53 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:53 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:53 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:53 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 22:58:53 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 22:58:53 INFO  Scenario1_LoginVerificationTest:15 - Invalid login error message verified successfully
+2026-01-02 22:58:53 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 22:58:53 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:53 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:53 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:58 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:58:58 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:58:58 INFO  LoginPage:15 - Entering password
+2026-01-02 22:58:58 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:58:58 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:58:58 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:59:01 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:59:01 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 22:59:02 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 22:59:02 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 22:59:02 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:59:02 INFO  OpenNewAccountPage:15 - New account confirmation message displayed: Your new account number:
+2026-01-02 22:59:02 INFO  OpenNewAccountPage:15 - New account number generated: 18561
+2026-01-02 22:59:02 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:03 DEBUG AccountsOverviewPage:31 - Checking if account exists: 18561
+2026-01-02 22:59:03 INFO  AccountsOverviewPage:15 - Account found: 18561
+2026-01-02 22:59:03 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18561
+2026-01-02 22:59:04 INFO  AccountsOverviewPage:15 - Clicked account: 18561
+2026-01-02 22:59:04 INFO  AccountsOverviewPage:15 - Account type is: CHECKING
+2026-01-02 22:59:08 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:59:08 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:59:08 INFO  LoginPage:15 - Entering password
+2026-01-02 22:59:08 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:59:10 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:59:10 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 22:59:11 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:59:11 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 22:59:11 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 22:59:11 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 22:59:11 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 22:59:11 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:59:13 INFO  TransferFundsPage:15 - Selected 'From Account': 18561
+2026-01-02 22:59:13 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:59:13 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:59:13 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:14 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:59:15 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:59:15 INFO  AccountsOverviewPage:15 - Current account balance: 115.5
+2026-01-02 22:59:15 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18561
+2026-01-02 22:59:15 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:15 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18561
+2026-01-02 22:59:16 INFO  AccountsOverviewPage:15 - Clicked account: 18561
+2026-01-02 22:59:17 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 22:59:17 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 22:59:17 INFO  TransferFundsPage:15 - Starting funds transfer: $500 from account 18561 to account 18117
+2026-01-02 22:59:17 INFO  TransferFundsPage:15 - Entered transfer amount: 500
+2026-01-02 22:59:17 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 22:59:17 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 22:59:18 INFO  TransferFundsPage:15 - Actual transfer message displayed: $500.00 has been transferred from account #18561 to account #18117.
+2026-01-02 22:59:18 INFO  TransferFundsPage:15 - Expected transfer message: $500.00 has been transferred from account #18561 to account #18117.
+2026-01-02 22:59:18 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18561
+2026-01-02 22:59:18 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:18 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18561
+2026-01-02 22:59:19 INFO  AccountsOverviewPage:15 - Clicked account: 18561
+2026-01-02 22:59:19 INFO  AccountsOverviewPage:15 - Current account balance: -400.0
+2026-01-02 22:59:19 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 22:59:19 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:20 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 22:59:20 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 22:59:21 INFO  AccountsOverviewPage:15 - Current account balance: 615.5
+2026-01-02 22:59:23 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 22:59:23 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 22:59:23 INFO  LoginPage:15 - Entering password
+2026-01-02 22:59:23 INFO  LoginPage:15 - Clicking login button
+2026-01-02 22:59:23 INFO  LoginPage:15 - Login action performed
+2026-01-02 22:59:23 INFO  BillPayPage:15 - Navigating to Bill Pay page
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Starting Bill Payment process
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Entered payee name
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Entered payee address details
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Entered account and verified account
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Entered payment amount: 500
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Selected from account: 18228
+2026-01-02 22:59:26 INFO  BillPayPage:15 - Clicked Send Payment button
+2026-01-02 22:59:27 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:27 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:27 INFO  BillPayPage:15 - Getting actual confirmation message
+2026-01-02 22:59:27 INFO  BillPayPage:15 - Expected confirmation message: Bill Payment to John Doe in the amount of $500.00 from account 18228 was successful.
+2026-01-02 22:59:27 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:28 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 22:59:29 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 22:59:29 INFO  BillPayPage:15 - Navigating to Bill Pay page
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Starting Bill Payment process
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Entered payee name
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Entered payee address details
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Entered account and verified account
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Entered payment amount: 1000
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Selected from account: 18450
+2026-01-02 22:59:30 INFO  BillPayPage:15 - Clicked Send Payment button
+2026-01-02 22:59:31 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:31 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:31 INFO  BillPayPage:15 - Getting actual confirmation message
+2026-01-02 22:59:31 INFO  BillPayPage:15 - Expected confirmation message: Bill Payment to John Doe in the amount of $1000.00 from account 18450 was successful.
+2026-01-02 22:59:31 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:31 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18450
+2026-01-02 22:59:32 INFO  AccountsOverviewPage:15 - Clicked account: 18450
+2026-01-02 22:59:32 INFO  BillPayPage:15 - Navigating to Bill Pay page
+2026-01-02 22:59:32 INFO  BillPayPage:15 - Starting Bill Payment process
+2026-01-02 22:59:32 INFO  BillPayPage:15 - Entered payee name
+2026-01-02 22:59:33 INFO  BillPayPage:15 - Entered payee address details
+2026-01-02 22:59:33 INFO  BillPayPage:15 - Entered account and verified account
+2026-01-02 22:59:33 INFO  BillPayPage:15 - Entered payment amount: 1500
+2026-01-02 22:59:33 INFO  BillPayPage:15 - Selected from account: 18339
+2026-01-02 22:59:33 INFO  BillPayPage:15 - Clicked Send Payment button
+2026-01-02 22:59:34 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:34 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:34 INFO  BillPayPage:15 - Getting actual confirmation message
+2026-01-02 22:59:34 INFO  BillPayPage:15 - Expected confirmation message: Bill Payment to John Doe in the amount of $1500.00 from account 18339 was successful.
+2026-01-02 22:59:34 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:34 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18339
+2026-01-02 22:59:35 INFO  AccountsOverviewPage:15 - Clicked account: 18339
+2026-01-02 22:59:35 INFO  BillPayPage:15 - Navigating to Bill Pay page
+2026-01-02 22:59:35 INFO  BillPayPage:15 - Starting Bill Payment process
+2026-01-02 22:59:35 INFO  BillPayPage:15 - Entered payee name
+2026-01-02 22:59:35 INFO  BillPayPage:15 - Entered payee address details
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Entered account and verified account
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Entered payment amount: 2000
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Selected from account: 18672
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Clicked Send Payment button
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Bill Payment confirmation message is displayed
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Getting actual confirmation message
+2026-01-02 22:59:36 INFO  BillPayPage:15 - Expected confirmation message: Bill Payment to John Doe in the amount of $2000.00 from account 18672 was successful.
+2026-01-02 22:59:36 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 22:59:37 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18672
+2026-01-02 22:59:38 INFO  AccountsOverviewPage:15 - Clicked account: 18672
+2026-01-02 23:00:40 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 23:00:40 INFO  LoginPage:15 - Entering username: 
+2026-01-02 23:00:40 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:40 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:40 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:41 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 23:00:41 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 23:00:41 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 23:00:41 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:41 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:41 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:41 INFO  LoginPage:15 - Error message displayed: Please enter a username and password.
+2026-01-02 23:00:41 INFO  LoginPage:15 - Determined error message: Please enter a username and password.
+2026-01-02 23:00:41 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 23:00:41 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:41 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:41 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:42 INFO  LoginPage:15 - Entering username: sherry_test
+2026-01-02 23:00:42 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:42 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:42 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:42 INFO  LoginPage:15 - Entering username: wronguser
+2026-01-02 23:00:42 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:42 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:43 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:43 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 23:00:43 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 23:00:43 INFO  LoginPage:15 - Entering username: user!@#
+2026-01-02 23:00:43 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:43 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:43 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:43 INFO  LoginPage:15 - Error message displayed: The username and password could not be verified.
+2026-01-02 23:00:43 INFO  LoginPage:15 - Determined error message: The username and password could not be verified.
+2026-01-02 23:00:46 INFO  RegisterTest:15 - Initializing RegisterPage and loading test data from dataProvider
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered First Name: 
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:46 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:47 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Last Name: 
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:47 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:48 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Address: 
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:48 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:49 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:49 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:49 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:49 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered City: 
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:50 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:50 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered First Name: Sara
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered State: 
+2026-01-02 23:00:51 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:52 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Clicking on Register link to open registration page
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Filling registration form for user: sara_test
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered First Name: 123
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Last Name: Ahmed
+2026-01-02 23:00:52 INFO  RegisterPage:15 - Entered Address: 10 Tahrir Street
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered City: Cairo
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered State: Giza
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered Zip Code: 12345
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered Phone Number: 01012345678
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered SSN: 123-45-6789
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered Username: sara_test
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered Password: Test@123
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Entered Confirm Password: Test@123
+2026-01-02 23:00:53 INFO  RegisterPage:15 - Clicked Submit button to complete registration
+2026-01-02 23:00:53 INFO  RegisterTest:15 -  register is invalid
+2026-01-02 23:00:59 INFO  LoginPage:15 - LoginPage initialized
+2026-01-02 23:00:59 INFO  LoginPage:15 - Entering username: s_test
+2026-01-02 23:00:59 INFO  LoginPage:15 - Entering password
+2026-01-02 23:00:59 INFO  LoginPage:15 - Clicking login button
+2026-01-02 23:00:59 INFO  LoginPage:15 - Login action performed
+2026-01-02 23:00:59 INFO  OpenNewAccountPage:15 - Opening Open New Account page
+2026-01-02 23:01:01 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 23:01:01 INFO  OpenNewAccountPage:15 - Selecting account type: CHECKING
+2026-01-02 23:01:01 INFO  OpenNewAccountPage:15 - Using existing account number: 18117
+2026-01-02 23:01:01 INFO  OpenNewAccountPage:15 - Clicked Open New Account button
+2026-01-02 23:01:01 DEBUG OpenNewAccountPage:31 - Waiting for Open New Account page to load
+2026-01-02 23:01:01 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:03 INFO  TransferFundsPage:15 - Selected 'From Account': 18561
+2026-01-02 23:01:03 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:03 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 23:01:03 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:04 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 23:01:04 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 23:01:05 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 23:01:05 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18561
+2026-01-02 23:01:05 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:05 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18561
+2026-01-02 23:01:06 INFO  AccountsOverviewPage:15 - Clicked account: 18561
+2026-01-02 23:01:06 INFO  AccountsOverviewPage:15 - Current account balance: -400.0
+2026-01-02 23:01:06 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:07 INFO  TransferFundsPage:15 - Starting funds transfer: $0 from account 18561 to account 18117
+2026-01-02 23:01:07 INFO  TransferFundsPage:15 - Entered transfer amount: 0
+2026-01-02 23:01:07 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:07 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 23:01:07 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18561
+2026-01-02 23:01:07 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:07 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18561
+2026-01-02 23:01:08 INFO  AccountsOverviewPage:15 - Clicked account: 18561
+2026-01-02 23:01:09 INFO  AccountsOverviewPage:15 - Current account balance: -400.0
+2026-01-02 23:01:09 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 23:01:09 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:09 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 23:01:10 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 23:01:11 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 23:01:11 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:11 INFO  TransferFundsPage:15 - Selected 'From Account': 18783
+2026-01-02 23:01:11 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:11 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 23:01:11 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:12 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 23:01:12 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 23:01:13 INFO  AccountsOverviewPage:15 - Current account balance: 515.5
+2026-01-02 23:01:13 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18783
+2026-01-02 23:01:13 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:13 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18783
+2026-01-02 23:01:14 INFO  AccountsOverviewPage:15 - Clicked account: 18783
+2026-01-02 23:01:14 INFO  AccountsOverviewPage:15 - Current account balance: 100.0
+2026-01-02 23:01:14 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:15 INFO  TransferFundsPage:15 - Starting funds transfer: $-100 from account 18783 to account 18117
+2026-01-02 23:01:15 INFO  TransferFundsPage:15 - Entered transfer amount: -100
+2026-01-02 23:01:15 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:15 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 23:01:16 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:16 INFO  TransferFundsPage:15 - Selected 'From Account': 18450
+2026-01-02 23:01:16 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:16 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 23:01:16 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:17 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 23:01:17 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 23:01:18 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 23:01:18 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18450
+2026-01-02 23:01:18 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:18 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18450
+2026-01-02 23:01:19 INFO  AccountsOverviewPage:15 - Clicked account: 18450
+2026-01-02 23:01:20 INFO  AccountsOverviewPage:15 - Current account balance: -900.0
+2026-01-02 23:01:20 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:20 INFO  TransferFundsPage:15 - Starting funds transfer: $ from account 18450 to account 18117
+2026-01-02 23:01:20 INFO  TransferFundsPage:15 - Entered transfer amount: 
+2026-01-02 23:01:20 INFO  TransferFundsPage:15 - Selected 'To Account': 18117
+2026-01-02 23:01:20 INFO  TransferFundsPage:15 - Clicked Transfer button
+2026-01-02 23:01:31 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:32 INFO  TransferFundsPage:15 - Selected 'From Account': 18117
+2026-01-02 23:01:32 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 23:01:32 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18228
+2026-01-02 23:01:32 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:32 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18228
+2026-01-02 23:01:33 INFO  AccountsOverviewPage:15 - Clicked account: 18228
+2026-01-02 23:01:33 INFO  AccountsOverviewPage:15 - Current account balance: -600.0
+2026-01-02 23:01:33 INFO  AccountsOverviewPage:15 - Checking balance after transfer for account: 18117
+2026-01-02 23:01:33 INFO  AccountsOverviewPage:15 - Navigating to Accounts Overview page
+2026-01-02 23:01:34 INFO  AccountsOverviewPage:15 - Opening account details page for account: 18117
+2026-01-02 23:01:34 INFO  AccountsOverviewPage:15 - Clicked account: 18117
+2026-01-02 23:01:35 INFO  AccountsOverviewPage:15 - Current account balance: 415.5
+2026-01-02 23:01:35 INFO  TransferFundsPage:15 - Clicking on 'Transfer Funds' link
+2026-01-02 23:01:35 INFO  TransferFundsPage:15 - Starting funds transfer: $abc from account 18117 to account 18228
+2026-01-02 23:01:35 INFO  TransferFundsPage:15 - Entered transfer amount: abc
+2026-01-02 23:01:36 INFO  TransferFundsPage:15 - Selected 'To Account': 18228
+2026-01-02 23:01:36 INFO  TransferFundsPage:15 - Clicked Transfer button

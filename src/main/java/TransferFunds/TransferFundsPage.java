@@ -27,6 +27,8 @@ public class TransferFundsPage extends BasePage {
     By transferButton = By.xpath("//*[@id='transferForm']/div[2]/input");
     By amountField = By.xpath("//*[@id='amount']");
     By validateMessageField = By.xpath("//div[@id='transferApp']/div[2]/p[1]");
+    By confirmMessageField = By.xpath("//*[@id='showResult']/h1");
+
     String toAccount;
     public void waitForPageToLoad()
     {
@@ -133,7 +135,7 @@ public class TransferFundsPage extends BasePage {
     public boolean isDisplayedActualResultMessage()
     {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        WebElement message = wait.until(ExpectedConditions.visibilityOfElementLocated(validateMessageField));
+        WebElement message = wait.until(ExpectedConditions.visibilityOfElementLocated(confirmMessageField));
         return message.isDisplayed();
     }
 

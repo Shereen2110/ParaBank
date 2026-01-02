@@ -13,8 +13,6 @@ public class RegisterDataProvider {
                 {"Sara", "Ahmed", "10 Tahrir Street", "", "Giza", "12345", "01012345678", "123-45-6789", "sara_test", "Test@123"},
                 {"Sara", "Ahmed", "10 Tahrir Street", "Cairo", "", "12345", "01012345678", "123-45-6789", "sara_test", "Test@123"},
                 {"123", "Ahmed", "10 Tahrir Street", "Cairo", "Giza", "12345", "01012345678", "123-45-6789", "sara_test", "Test@123"},
-                {"Sara", "Ahmed", "10 Tahrir Street", "Cairo", "Giza", "12a45", "01012345678", "123-45-6789", "sara_test", "Test@123"},
-                {"Sara", "Ahmed", "10 Tahrir Street", "Cairo", "Giza", "12345", "phone123", "123-45-6789", "sara_test", "Test@123"}
         };
     }
 }

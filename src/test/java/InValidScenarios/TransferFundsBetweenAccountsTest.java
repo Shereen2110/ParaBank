@@ -58,8 +58,8 @@ public class TransferFundsBetweenAccountsTest extends BaseTest
         double fromAccountBalanceAfter=accountsOverviewPage.balanceChangeTransfer(fromAccount);
         double toAccountBalanceAfter=accountsOverviewPage.balanceChangeTransfer(toAccount);
         SoftAssert softAssert=new SoftAssert();
-        softAssert.assertNotEquals(fromAccountBalanceAfter,fromAccountBalanceBefore);
-        softAssert.assertNotEquals(toAccountBalanceAfter,toAccountBalanceBefore);
+        softAssert.assertEquals(fromAccountBalanceAfter,fromAccountBalanceBefore);
+        softAssert.assertEquals(toAccountBalanceAfter,toAccountBalanceBefore);
         softAssert.assertAll();
     }
     @Test(priority = 4)
