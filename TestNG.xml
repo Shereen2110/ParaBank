@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ValidScenarios">
+    <test name="ValidTests - Chrome">
+        <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="validScenario"/>
+                <include name="invalidScenario"/>
+
+            </run>
+        </groups>
+        <classes>
+            <class name="ValidScenarios.RegisterTest"/>
+            <class name="ValidScenarios.Scenario1_LoginVerificationTest"/>
+            <class name="ValidScenarios.Scenario2_OpenNewAccountTest"/>
+            <class name="ValidScenarios.Scenario3_TransferFundsBetweenAccountsTest"/>
+            <class name="ValidScenarios.Scenario4_BillPayTest"/>
+        </classes>
+    </test>
+
+<!--    <test name="ValidTests - Firefox">-->
+<!--        <parameter name="browser" value="firefox"/>-->
+<!--        <classes>-->
+<!--
+            <class name="ValidScenarios.Scenario1_LoginVerificationTest"/>
+            <class name="ValidScenarios.Scenario2_OpenNewAccountTest"/>
+            <class name="ValidScenarios.Scenario3_TransferFundsBetweenAccountsTest"/>
+            <class name="ValidScenarios.Scenario4_BillPayTest"/>
+<!-         </classes>-->
+<!--    </test>-->
+
+</suite>
